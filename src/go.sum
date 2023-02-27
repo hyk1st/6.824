@@ -1,0 +1,5 @@
+github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5/go.mod h1:jvVRKCrJTQWu0XVbaOlby/2lO20uSCHEMzzplHXte1o=
+github.com/petermattis/goid v0.0.0-20230222173705-8ff7bb262a50 h1:mDrFjGWmndQXmVx3giRScTbkltpPcnGEWG1GorsuiJ4=
+github.com/petermattis/goid v0.0.0-20230222173705-8ff7bb262a50/go.mod h1:pxMtw7cyUw6B2bRH0ZBANSPg+AoSud1I1iyJHI69jH4=
+github.com/sasha-s/go-deadlock v0.3.1 h1:sqv7fDNShgjcaxkO0JNcOAlr8B9+cV5Ey/OB71efZx0=
+github.com/sasha-s/go-deadlock v0.3.1/go.mod h1:F73l+cr82YSh10GxyRI6qZiCgK64VaZjwesgfQ1/iLM=
